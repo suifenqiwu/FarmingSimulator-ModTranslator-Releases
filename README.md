@@ -4,6 +4,8 @@
 
 **[下载最新版本](https://github.com/suifenqiwu/FarmingSimulator-ModTranslator-Releases/releases/latest)** · [查看历次更新](https://github.com/suifenqiwu/FarmingSimulator-ModTranslator-Releases/releases)
 
+使用 v0.9.21 或 v0.9.22 时，仓库更名可能导致软件内检查更新失败。请使用上方「下载最新版本」打开新的官方发布页。
+
 ## 第一次汉化
 
 1. 下载并运行 EXE，在「汉化工作台」点击「新手引导」。橙框会指向当前操作位置，可以随时返回上一步或退出。
