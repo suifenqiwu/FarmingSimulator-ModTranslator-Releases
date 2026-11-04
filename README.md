@@ -2,7 +2,7 @@
 
 我们做了这款 Windows 工具，帮助玩家把 Mod 里的菜单、操作提示和物品说明翻译成中文。目前适配《模拟农场25》，其他代的兼容性仍待验证。
 
-**[下载最新版本](https://github.com/suifenqiwu/FS25-ModTranslator-Releases/releases/latest)** · [查看历次更新](https://github.com/suifenqiwu/FS25-ModTranslator-Releases/releases)
+**[下载最新版本](https://github.com/suifenqiwu/FarmingSimulator-ModTranslator-Releases/releases/latest)** · [查看历次更新](https://github.com/suifenqiwu/FarmingSimulator-ModTranslator-Releases/releases)
 
 ## 可以用它做什么
 
